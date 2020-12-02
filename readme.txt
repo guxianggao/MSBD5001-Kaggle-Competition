@@ -12,4 +12,4 @@ from sklearn.ensemble import RandomForestRegressor
 from xgboost.sklearn import XGBRegressor
 
 How to run it to reproduce your result:
-Just run the whole jupyter notebook directly.
+Make sure that file path is correct! And then you can just run the whole jupyter notebook directly.
